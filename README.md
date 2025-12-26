@@ -1,4 +1,4 @@
 # currency-converter-website
 A simple currency converter web app using HTML, CSS, JS.
 <br>
-Auther - Rehan khan
+Auther - Rehan (mai hu khan)
